@@ -7,6 +7,8 @@ User registration and user login,
 
 All transactions made by the user with the JsonWebTokens,
 
+Transactions such as Token, Bcrypt, Authentication, and .env,
+
 There are processes and ready-made products belonging to the products section,
 
 Transactions related to the basket section,
@@ -20,8 +22,6 @@ There are transactions related to the payment section.
 Modeling, Routers and MySQL connection,
 
 Sequelize operations,
-
-Transactions such as Token, Bcrypt, Authentication, and .env,
 
 Port connection 3000,
 
