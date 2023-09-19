@@ -5,7 +5,7 @@ Food Delivery Backend Application with Javascript,Nodejs,ExpressJs,Sequelize and
 
 User registration and user login,
 
-All transactions made by the user with the token,
+All transactions made by the user with the JsonWebTokens,
 
 There are processes and ready-made products belonging to the products section,
 
